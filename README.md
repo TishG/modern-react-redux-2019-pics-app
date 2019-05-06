@@ -1,3 +1,12 @@
+# React Pics
+
+![image](https://user-images.githubusercontent.com/38973991/57257947-8a1e0b80-7020-11e9-9000-1c93c3df6c67.png)
+
+![image](https://user-images.githubusercontent.com/38973991/57258013-ba65aa00-7020-11e9-8e54-e0c8ab979f14.png)
+
+Simple search application that utilizes unsplash api to fetch images. This app was built with React, Semantic Ui, and CSS.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
